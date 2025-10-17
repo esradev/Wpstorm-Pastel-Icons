@@ -19,3 +19,21 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Fixed
 
 - Corrected icon paths in the theme JSON file.
+
+## [0.0.4] - 2025-10-17
+
+### Fixed
+
+- Updated icon paths to ensure proper loading.
+
+## [0.0.5] - 2025-10-17
+
+### Fixed
+
+- Fixed theme path.
+
+## [0.0.6] - 2025-10-17
+
+### Added
+
+- Added image preview to README.md.

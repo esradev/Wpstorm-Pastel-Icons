@@ -12,7 +12,7 @@
 
 > _(Add a screenshot or GIF here — you can use a relative path or GitHub image link)_
 
-![Preview](images/icon.png)
+![Preview](images/preview.png)
 
 ## ⚙️ Installation
 
