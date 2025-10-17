@@ -37,3 +37,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Added
 
 - Added image preview to README.md.
+
+## [0.0.7] - 2025-10-17
+
+### Added
+
+- Added TypeScript icon support.
+- Added HTML icon support.
+- Added image file icons (png, jpg, jpeg, gif, bmp, webp, ico).
