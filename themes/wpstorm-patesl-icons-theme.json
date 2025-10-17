@@ -2,43 +2,43 @@
   "$schema": "https://raw.githubusercontent.com/microsoft/vscode/main/src/vs/workbench/services/themes/common/iconThemeSchema.json",
   "iconDefinitions": {
     "_file": {
-      "iconPath": "./icons/file.svg"
+      "iconPath": "../icons/file.svg"
     },
     "_folder": {
-      "iconPath": "./icons/folder.svg"
+      "iconPath": "../icons/folder.svg"
     },
     "_folder_open": {
-      "iconPath": "./icons/folder-open.svg"
+      "iconPath": "../icons/folder-open.svg"
     },
     "js": {
-      "iconPath": "./icons/js.svg"
+      "iconPath": "../icons/js.svg"
     },
     "php": {
-      "iconPath": "./icons/php.svg"
+      "iconPath": "../icons/php.svg"
     },
     "py": {
-      "iconPath": "./icons/py.svg"
+      "iconPath": "../icons/py.svg"
     },
     "git": {
-      "iconPath": "./icons/git.svg"
+      "iconPath": "../icons/git.svg"
     },
     "json": {
-      "iconPath": "./icons/json.svg"
+      "iconPath": "../icons/json.svg"
     },
     "md": {
-      "iconPath": "./icons/markdown.svg"
+      "iconPath": "../icons/markdown.svg"
     },
     "css": {
-      "iconPath": "./icons/css.svg"
+      "iconPath": "../icons/css.svg"
     },
     "svg": {
-      "iconPath": "./icons/svg.svg"
+      "iconPath": "../icons/svg.svg"
     },
     "packageJson": {
-      "iconPath": "./icons/package-json.svg"
+      "iconPath": "../icons/package-json.svg"
     },
     "code": {
-      "iconPath": "./icons/code.svg"
+      "iconPath": "../icons/code.svg"
     }
   },
   "file": "_file",
