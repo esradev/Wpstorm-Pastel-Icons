@@ -21,7 +21,7 @@
       {
         "id": "wpstorm-pastel-icons",
         "label": "Wpstorm Pastel Icons",
-        "path": "./themes/wpstorm-pastel-icons-theme.json"
+        "path": "themes/wpstorm-pastel-icons-theme.json"
       }
     ]
   },
