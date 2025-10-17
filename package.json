@@ -2,7 +2,7 @@
   "name": "wpstorm-pastel-icons",
   "displayName": "Wpstorm Pastel Icons",
   "description": "A pastel icon theme for Visual Studio Code inspired by Wpstorm Pastel Theme.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "WpstormGenius",
   "repository": {
     "type": "git",
