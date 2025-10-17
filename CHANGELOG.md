@@ -13,3 +13,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Fixed
 
 - Removed unnecessary files from the package to reduce size.
+
+## [0.0.3] - 2025-10-17
+
+### Fixed
+
+- Corrected icon paths in the theme JSON file.
