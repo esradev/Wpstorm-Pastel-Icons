@@ -1,0 +1,74 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vscode/main/src/vs/workbench/services/themes/common/iconThemeSchema.json",
+  "iconDefinitions": {
+    "_file": {
+      "iconPath": "./icons/file.svg"
+    },
+    "_folder": {
+      "iconPath": "./icons/folder.svg"
+    },
+    "_folder_open": {
+      "iconPath": "./icons/folder-open.svg"
+    },
+    "js": {
+      "iconPath": "./icons/js.svg"
+    },
+    "php": {
+      "iconPath": "./icons/php.svg"
+    },
+    "py": {
+      "iconPath": "./icons/py.svg"
+    },
+    "git": {
+      "iconPath": "./icons/git.svg"
+    },
+    "json": {
+      "iconPath": "./icons/json.svg"
+    },
+    "md": {
+      "iconPath": "./icons/markdown.svg"
+    },
+    "css": {
+      "iconPath": "./icons/css.svg"
+    },
+    "svg": {
+      "iconPath": "./icons/svg.svg"
+    },
+    "packageJson": {
+      "iconPath": "./icons/package-json.svg"
+    },
+    "code": {
+      "iconPath": "./icons/code.svg"
+    }
+  },
+  "file": "_file",
+  "folder": "_folder",
+  "folderExpanded": "_folder_open",
+  "fileExtensions": {
+    "js": "js",
+    "mjs": "js",
+    "cjs": "js",
+    "php": "php",
+    "py": "py",
+    "json": "json",
+    "jsonc": "json",
+    "md": "md",
+    "markdown": "md",
+    "css": "css",
+    "scss": "css",
+    "less": "css",
+    "svg": "svg",
+    ".code-workspace": "code"
+  },
+  "fileNames": {
+    "package.json": "packageJson",
+    "package-lock.json": "packageJson",
+    ".gitignore": "git",
+    ".gitattributes": "git",
+    "*.code-workspace": "code"
+  },
+  "folderNames": {
+    "src": "_folder",
+    "components": "_folder"
+  }
+}
